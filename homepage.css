@@ -1,0 +1,10 @@
+body {
+  color: white;
+  background-image: url(http://wallpapercave.com/wp/idypRYR.jpg);
+}
+h1 {
+  position: relative;
+  height: auto;
+  left :50%;
+  margin:0;
+}
