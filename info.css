@@ -1,0 +1,10 @@
+body {
+  color: white;
+  background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark1400x900.jpg);
+}
+h1 {
+  position: relative;
+  height: auto;
+  left :50%;
+  margin:0;
+}

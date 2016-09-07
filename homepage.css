@@ -1,8 +1,18 @@
 body {
+
   color: white;
-  background-image: url(http://wallpapercave.com/wp/idypRYR.jpg);
+  background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark1400x900.jpg);
 }
+
+a:unvisited {
+  color: white;
+
+
+
+}
+
 h1 {
+    font-style: italic;
   position: relative;
   height: auto;
   left :50%;
