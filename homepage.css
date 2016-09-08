@@ -4,12 +4,8 @@ body {
   background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark1400x900.jpg);
 }
 
-a:unvisited {
-  color: white;
 
 
-
-}
 
 ul {
 background-color: #333;
@@ -20,7 +16,9 @@ overflow: hidden;
 }
 li  {
   float: left;
-
+}
+li a:hover {
+  background-color: gray;
 }
 li a {
   display: inline;
