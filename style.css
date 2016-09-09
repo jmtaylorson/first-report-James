@@ -1,7 +1,10 @@
+@import 'https://fonts.googleapis.com/css?family=Lato';
 body {
+font-family: 'Lato', sans-serif;
   color: white;
-  background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark1400x900.jpg);
+  background-image: url(http://www.desktopwallpaperhd.net/wallpapers/6/6/apple-backgrounds-inspired-wallpaper-desktop-computer-64534.jpg);
 }
+
 p {
   color : white;
 }

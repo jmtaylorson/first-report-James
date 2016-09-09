@@ -1,6 +1,11 @@
+@import 'https://fonts.googleapis.com/css?family=Lato';
 body {
+font-family: 'Lato', sans-serif;
   color: white;
-  background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark1400x900.jpg);
+  background-image: url(http://www.desktopwallpaperhd.net/wallpapers/6/6/apple-backgrounds-inspired-wallpaper-desktop-computer-64534.jpg);
+}
+img {
+  display: block;
 }
 h1 {
   position: relative;
@@ -20,7 +25,9 @@ li  {
   float: left;
 }
 li a:hover {
-  background-color: gray;
+  transition: background 1s ease,
+  padding 0.8s linear;
+  background-color: slategray;
 }
 li a {
   display: inline;
@@ -30,11 +37,11 @@ li a {
   text-decoration: none;
 }
 div {
-  background-color: darkslategray;
+  background-color: #516365;
 }
 
 h1 {
-    font-style: italic;
+
   position: relative;
   height: auto;
   left :50%;
