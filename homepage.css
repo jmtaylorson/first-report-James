@@ -9,8 +9,12 @@ img {
  display: block;
  margin: auto;
 }
-
-
+p {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
 
 ul {
 background-color: #333;

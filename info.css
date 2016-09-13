@@ -2,6 +2,7 @@
 body {
 font-family: 'Lato', sans-serif;
   color: white;
+
   background-image: url(http://www.desktopwallpaperhd.net/wallpapers/6/6/apple-backgrounds-inspired-wallpaper-desktop-computer-64534.jpg);
 }
 img {
@@ -13,7 +14,9 @@ h1 {
   left :50%;
   margin:0;
 }
-
+h3 {
+  text-align: center;
+}
 ul {
 background-color: #333;
 list-style-type: none;
@@ -36,18 +39,25 @@ li a {
   padding: 14px;
   text-decoration: none;
 }
+h5 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
 #iphone_7{
-  margin: auto;
-  text-align: right;
-  float: right;
+  float: left;
+text-align: left;
+margin: auto;
 
 
 }
 
 #iphone_7_plus{
-float: left;
-text-align: left;
-margin: auto;
+  margin: auto;
+  text-align: right;
+  float: right;
+
 }
 #header {
   background-color: #516365;
